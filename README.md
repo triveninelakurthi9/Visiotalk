@@ -46,7 +46,7 @@ To build a secure, reliable, and responsive video conferencing platform where us
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/visiotalk.git
+git clone https://github.com/triveninelakurthi9/visiotalk.git
 cd visiotalk
 ```
 
